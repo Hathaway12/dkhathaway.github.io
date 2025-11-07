@@ -12,7 +12,7 @@
 ## Tech Stack
 
 **Languages:**  
-`JavaScript` `Php`  `HTML` `CSS` `Handlebars` `Lua`
+`JavaScript` `Php`  `HTML` `CSS` `Handlebars`
 
 **Frameworks & Libraries:**  
 `Ember.js`  `Node.js`
